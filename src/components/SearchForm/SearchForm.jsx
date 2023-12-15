@@ -20,7 +20,7 @@ const SearchForm = () => {
       setSearchTerm(searchText.current.value);
     }
     navigate("/book");
-  }
+  };
 
   return (
     <div className='search-form'>
