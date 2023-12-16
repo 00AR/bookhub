@@ -12,7 +12,7 @@ const Header = () => {
                 <h2 className='header-title text-capitalize'>find your book of choice.</h2>
                 <br />
                 <p className='header-text fs-18 fw-3'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur autem adipisci unde sint magni totam commodi voluptates veritatis ducimus modi distinctio harum eveniet voluptatibus illo, qui a repellendus beatae. Odit?
+                    Take the wisdom from the wise! 
                 </p>
                 <SearchForm />
             </div>
